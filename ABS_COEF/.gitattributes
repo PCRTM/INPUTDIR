@@ -1,0 +1,12 @@
+airs_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crisblk_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crisbox_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crisham_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crishrblk_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crishrbox_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+crishrham_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+iasi_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+nastibox_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+nastiksr_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+shisbox_abscoef_solar filter=lfs diff=lfs merge=lfs -text
+shisksr_abscoef_solar filter=lfs diff=lfs merge=lfs -text
